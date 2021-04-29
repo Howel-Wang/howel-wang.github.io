@@ -6,7 +6,7 @@
   <link href="https://howel-wang.github.io/atom.xml" rel="self"/>
   
   <link href="https://howel-wang.github.io/"/>
-  <updated>2021-04-29T14:23:21.456Z</updated>
+  <updated>2021-04-29T14:30:20.868Z</updated>
   <id>https://howel-wang.github.io/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>DesignPattern01</title>
+    <link href="https://howel-wang.github.io/2021/04/29/designpattern01/"/>
+    <id>https://howel-wang.github.io/2021/04/29/designpattern01/</id>
+    <published>2021-04-29T14:26:23.000Z</published>
+    <updated>2021-04-29T14:30:20.868Z</updated>
+    
+    
+    
+    
+    <category term="编程" scheme="https://howel-wang.github.io/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+    
+    <category term="设计模式学习" scheme="https://howel-wang.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
