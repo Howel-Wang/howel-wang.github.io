@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Howel_Blog</title>
   
   
   <link href="https://howel-wang.github.io/atom.xml" rel="self"/>
   
   <link href="https://howel-wang.github.io/"/>
-  <updated>2021-04-29T14:39:08.488Z</updated>
+  <updated>2021-04-29T14:40:28.162Z</updated>
   <id>https://howel-wang.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://howel-wang.github.io/2021/04/29/designpattern01/"/>
     <id>https://howel-wang.github.io/2021/04/29/designpattern01/</id>
     <published>2021-04-29T14:26:23.000Z</published>
-    <updated>2021-04-29T14:39:08.488Z</updated>
+    <updated>2021-04-29T14:40:28.162Z</updated>
     
     
       
